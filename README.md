@@ -1,6 +1,7 @@
 ## ![Banner](https://i.imgur.com/3x5dK2E.png)
 
 ## Olá 👋 Eu sou a Jeniffer!
+![GIF animado]([https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif](https://giphy.com/gifs/tecnocorp-tecnologia-tecnocorptecnologia-ti-osasco-lQDdDwdZpfYRn1MsJy))
 
 💻 **Desenvolvedora de Software | Criativa em Código | Exploradora de Tecnologia**
 
